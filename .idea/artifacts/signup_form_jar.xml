@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="signup_form:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/signup_form_jar</output-path>
+    <root id="archive" name="signup_form.jar">
+      <element id="module-output" name="signup_form" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson/4.7.0/bson-4.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/4.7.0/mongodb-driver-core-4.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-sync/4.7.0/mongodb-driver-sync-4.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/bson-record-codec/4.7.0/bson-record-codec-4.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
